@@ -1,4 +1,6 @@
 # Early Detection of User Exits from Clickstream Data: A Markov Modulated Marked Point Process Model
+
+# Introduction
 This repository contains code for the Markov Modulated Marked Point Process (M3PP) in "Early Detection of User Exits from Clickstream Data: A Markov Modulated Marked Point Process Model".
 
 ## Abstract
